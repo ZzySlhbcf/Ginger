@@ -22,7 +22,7 @@
 ### Todo List
 
 + lela、deda、heha、gega
-+ dudi、kabu
++ ja、je、ji、ju
 
 ### Milestones
 
@@ -33,12 +33,13 @@
    + yre yh yre为101，其词性y为数词
    + dudi为Dundee
 5. 由词性y找出所有10个数词。都是以y开头，它们的定义是由1这个数字为基石
-6. 由dudi. saoled cxqku. zuogu和dudi、saoled、zuogu发音上的类似得出城市.国家形式，得出Dundee、苏格兰、中国的定义，其释义中出现的axuaxf kazuqr、taguqr定为国家和城市的意思，hatel kadu、dudi kabu加入Todo List
-7. Lumi定义中出现yyyy和yyyy，翻译为1207和1273，为年份。搜索后发现诗人Rumi。定义中alpp ji和zucjch ji有出生和死亡的概念
+6. 由dudi. saoled cxqku. zuogu和dudi、saoled、zuogu发音上的类似得出城市.国家形式，得出Dundee、苏格兰、中国的意思，其释义中出现的axuaxf kazuqr、taguqr定为国家和城市的意思
+7. Lumi定义中出现yyyy和yyyy，翻译为1207和1273，为年份。搜索后发现诗人Rumi。释义中alpp ji和zucjch ji有出生和死亡的概念
    此条和上一条得出结论：**现实中的专有名词，在ginger会进行发音上的相似转化**
 8. yutehe的定义为sj. zuf deqhm. y kuuee，但是字典中没有y这个词。搜索发现所有词性的定义中都有kuuee
-9. aokasx e eguux kuuee，e为eguux缩写，eguux为名词词性e，kueee为动词概括，**该语言语序可能使用宾主谓结构**
+9. kuuee释义中aokasx e eguux kuuee，e为eguux缩写，eguux为名词词性e，kuuee猜测为动词概括，**该语言语序可能使用宾主谓结构**
 10. vh steam lizu ktap ppt和vh cxqku ee dudi kytu，中vh定为于。其词性r定为介词，做什么于某处或某地。
+11. 输入所有单词，生成zucjch.txt文件，社恐不敢打电话:(
 
 ## Oktev Bhh Ee Qhh
 
@@ -98,8 +99,8 @@
 
 ![image-20251124221057935](D:\Zzy\Desktop\GameBase\THINKY_RUZZLES\语言类解谜\Ginger\Ginger.assets\image-20251124221057935.png)
 
-一位叫Lumi的伊朗艺术家（1207 年 9 月 30 日 – 1273 年 12 月 17 日），时间可以对的上，可能引用的就是他的话。zuli可能指代Lumi，yre ysi yh yux alpp ji o yre ysi yux  yamte zucjch j就是从1207出生到1273死亡，o就是几几年到几几年，与其词性连词相符。
-alpp ji和zucjch ji对应出生于和死亡于，但二者结构都是名词动词。alpp和zucjch老面孔了：1. subtate: e. zucjch tlah；2.subteta  e. alpp tlah。这两个词感觉要改成后和前，具体在S小节阐述。
+一位名叫Lumi的伊朗艺术家（1207 年 9 月 30 日 – 1273 年 12 月 17 日），时间可以对的上，可能引用的就是他的话。zuli可能指代Lumi，yre ysi yh yux alpp ji o yre ysi yux  yamte zucjch j就是从1207出生到1273死亡，o就是几几年到几几年，与其词性连词相符。
+alpp ji和zucjch ji对应出生和死亡，但二者结构都是名词动词。alpp和zucjch老面孔了：1. subtate: e. zucjch tlah；2.subteta  e. alpp tlah。这两个词感觉要改成后和前，具体在S小节阐述。
 搜索Lumi符合sxk ja ja hji. lpubl cjja osih ee cjje sasih ja ji(hh cj cj k bu e sj bu e sj cj k)符合该结构的名言，要求分为两句，第二句有两个连词。太多了找不到:(
 
 
@@ -124,6 +125,8 @@ alpp ji和zucjch ji对应出生于和死亡于，但二者结构都是名词动�
 
 种种巧合加起来说明我猜对了，y是数词，数词的出现是一个重大突破。把目光转向yre和yh，将所有y开头的数词放到下一小节进行分析。
 
+发音更新，botvi和BROUGHTY发音类似
+
 回到dudi，它出现在saoled、duax、botvi中，其中saoled出现过一次，如下表
 
 | SENTENCE                                      | PART OF SPEECH                 |
@@ -131,8 +134,8 @@ alpp ji和zucjch ji对应出生于和死亡于，但二者结构都是名词动�
 | lizu ktap<br />dudi. saoled<br />cxqku. zuogu | sj. sj<br />sj. sj<br />sj. sj |
 
 由于dudi与Dundee发音上过于相似，saoled与其所属国家Scotland也极为相似，我几乎可以断定上文的结构是城市.国家
-那么zuogu非常容易联想到是中国，cxqku发音可能是张家口，暂时定为张家口（其实是我没有找到作者地址，他现在定位显示在柏林，但显然不是）
-2025.11 .24 发现作者抖音归属地在湖南，但是发音不太相似，依旧认为是张家口
+那么zuogu非常容易联想到是中国，cxqku发音可能是重庆，暂时定为重庆（他现在定位显示在柏林，但显然不是）
+2025.11 .24 发现作者抖音归属地在湖南，但是发音不太相似，依旧认为是重庆
 
 | WORDS  | DESCRIPTION                                                  |
 | ------ | ------------------------------------------------------------ |
@@ -178,7 +181,7 @@ kadu k. vh yra ji.但是dudi中没有；hatel kadu.出现在zuogu、cxqku中
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | sub      | a. vh yre vzt ju sxresh ee sxresh kytu.                      | prep y/a noun hh noun conj noun verb                         |
 | suba     | k. vh subteta kyv.                                           | prep e noun/verb<br />由下一个词及两词的相似结构和词性，此处也为动词 |
-| subb     | k. subt kyv.                                                 | noun noun/verb<br />名词名词不可能为动词，此处为动词         |
+| subb     | k. subt kyv.                                                 | noun noun/verb (名词名词不可能为动词，此处为动词)            |
 | subi     | e. qrfde beba f vzt.                                         |                                                              |
 | subt     | sj. kap subteta ee kap subtate. <br />hh. kap vh subteta ee kap vh subtate. |                                                              |
 | subtat   | sj. subtate lela in deda in sxresh in hgasi.                 | e noun conj noun conj noun conj noun                         |
@@ -230,6 +233,21 @@ a-->sj-->e-->hh
 在Y中发现一个词的定义很奇怪：yutehe: sj. zuf deqhm. y kuuee.
 字典中没有出现y这个词，检查游戏后并没有出错，搜索字典还有没有出现过这种情况。搜索kuuee发现一组类似的释义，新建Gramma小节详细讨论语法语序词缀词性构成
 
+## zucjch.txt
+
+```
+olla
+
+zucjch yra ji. vh wax z ktap o wux z gudih.
+jar z je ja ji el je shley. je tacx tae.
+(+86)1XXXXXXXXXX7
+
+ja je asj.
+kevin
+```
+
+电话IP归属地在张家口，更新cxqku为张家口
+
 ## Gramma
 
 | Part Of Speech | Translate |
@@ -269,118 +287,118 @@ a-->sj-->e-->hh
 很显然这是词性的完整单词，但有几个不是这种形式，将表格重新排列。
 kuuee: k. axuax gega uxaux gega kelio. aokasx e eguux kuuee.本身词性为动词，再加上其本身出现在其他释义中，不是词性这种名词的意思，猜测为概括/缩写。
 
-aokasx e eguux kuuee，e为eguux缩写，eguux为名词词性e，kueee为动词概括，**该语言语序可能使用宾主谓结构**；同时aokasx后面衔接示例，本身为名词和连词，猜测有例子和例如的意思。
+aokasx e eguux kuuee，e为eguux缩写，eguux为名词词性e，kuuee为动词概括，**该语言语序可能使用宾主谓结构**；同时aokasx后面衔接示例，本身为名词和连词，猜测有例子和例如的意思。
 
 # DICTIONARY
 
 
 ## A
 
-| WORDS    | DESCRIPTION                                                  | DESCRIPTION_TRANSLATION |
-| -------- | ------------------------------------------------------------ | ----------------------- |
-| aa       | bu. vh subteta vzt subtet kysi o vh subtate vzt subtat kysi deqhm. cxla  ysi gega in sxgu z gega shlp. in vs ju buhhtes uxi beba. |                         |
-| aaosi    | e. taar in kauin hgasi dkdg deqhm.                           |                         |
-| aappaa   | sj. yra lela. yra ja asj. kat yra o gta z ja ahk je hji.     |                         |
-| aayin    | e. aosiple taar je ji el je ishl am hji inasi.               |                         |
-| achai    | e. ahk kap gudde.                                            |                         |
-| achei    | sj. yra lqa o htu ykai z je yra ji oteb.                     |                         |
-| afhjshf  | e. aappaa je axx. am olla. yra je kap axx. aokai je sxk ji.  |                         |
-| afsu     | k. vh cjja ee vh cjje aisir rik.                             |                         |
-| aga      | sj. afsu f hucher.                                           |                         |
-| agappx   | sj. ewer z kytu. a kuuee.                                    |                         |
-| ahg      | k. vk gudde aa shg dkdg.                                     |                         |
-| ahj      | sj. taar gudih kyin el shley. uku hucher hmt beba el shley.  |                         |
-| ahk      | k. ging dkdg vk kytu.                                        |                         |
-| ahsh     | sj. ahg kytu f sxresh.                                       |                         |
-| aibesj   | sj. lef jajije lpubel ash. gegagu z l uxi aie hji.           |                         |
-| aidu     | k. qah suba kadu am subb kap kadu.                           |                         |
-| aie      | sj. dust ja je asj ee je ja asj o dust je giduh z ja yk dkdg ee ja giduh  z je yk dkdg aa uxi kytu f kyv. |                         |
-| aige     | e. yra ahg.                                                  |                         |
-| aiger    | i. ahg je atek kat yre ginger je ji.                         |                         |
-| aiguux   | sj. vh oraux qatub z gega bteb f eeluz.                      |                         |
-| aiin     | k. vk gudde aa thg dkdg f ging rak in dkdg.                  |                         |
-| aik      | k. ju yra suba kadu o yra subb kadu.                         |                         |
-| aiok     | k. vh uxaux yele vzt yra suba aiqr. yra aik.                 |                         |
-| aiqr     | k. vh yre sjlup o vh uxauxf vzt beba.                        |                         |
-| air      | sj. liliax z ja.                                             |                         |
-| airli    | k. suba kytu aa subb kytu aa ehg kytu.                       |                         |
-| airlx    | k. suba kytu am subb hytu.                                   |                         |
-| aish     | sj. qah z ju lela lela kadu.                                 |                         |
-| aisir    | a. asre deqhm.                                               |                         |
-| aitek    | e. hhk husj. oly hhk husj. thg atek. oly thg atek. aohz je je tji. aohz  ahk je ulio. |                         |
-| aitgutea | sj. ahk yra gudde brye aozh alax ji. vk gudde irli atek aozh alex ji. |                         |
-| aiugf    | i. oley el je tlah f lela belu je kyso. taar yra ji. am deaw je xgf. auin  jel ji. |                         |
-| aizsuda  | sj. kyin aa toy f zuf z ging.                                |                         |
-| aizt     | sj. tair vzt.                                                |                         |
-| aje      | cj. subtatef je.                                             |                         |
-| aka      | sj. akerux ee akcxa.                                         |                         |
-| akabk    | sj. yre aka l ppsux ji. yre aka el l btebe kap bek ji. aka yk ahk vs aka  btebe f zkehu ji. |                         |
-| akachf   | i. gudda yra ktap hji. lpupl exiex xgin yra dkdg. plahe yre gudda ktap  shg. lpupl btebr shg yra dabu. oyr xgin kevin kzin. |                         |
-| akagata  | sj. amti ahk kyv f deda.                                     |                         |
-| akcxa    | sj. laf yra cxs kat tael yra ji el yra lqa.                  |                         |
-| akerux   | sj. laf xeli cxs.                                            |                         |
-| akudep   | sj. qvq z guo. k. plu guo rah in dyt.                        |                         |
-| akydep   | k. plu liuzu z guo akudep.                                   |                         |
-| akyt     | k. siuaa subtet ee subtat hji.                               |                         |
-| alaw     | sj. alp kakakaw.                                             |                         |
-| alax     | e. sxuk uxauxf ging aiin.                                    |                         |
-| alb      | e. uku alp. vh dku hutl vs def kakauka yra ji.               |                         |
-| alex     | e. sxzu ging aiin.                                           |                         |
-| alfsu    | sj. pdepr aga ji ishl.                                       |                         |
-| algin    | sj. yre alpp. kap lavit am utal. uxaux siuai ykai ehu dkdg.  |                         |
-| alih     | k. pdepr hucher kyin.                                        |                         |
-| alip     | e. vs je alp ji.                                             |                         |
-| alp      | e. hucher alpu. suba heba in bteb am subb beba in bteb. kakauka vs du ju  yra ji. |                         |
-| alpi     | a. kyin f hgasi alpp.                                        |                         |
-| alpp     | sj. 1 vh sxzu subteta f vzt. 2 dust sxzu subteta vzt ji o kadu f sjlup. 3  dust suba kap kyv am subb kyv o kadu f hgasi. 4 vh wax f liuzu. |                         |
-| alpu     | k. alp yra kyin.                                             |                         |
-| aluzui   | sj. tata z je xhjra.                                         |                         |
-| am       | bu. vs subtet fsa ji f subtat deqhm. alp sxresh deqhm.       |                         |
-| amaze    | sj. plato aiqr f sjlup.                                      |                         |
-| ami      | e. axuax amsht je ji el je in laf ishl.                      |                         |
-| amka     | k. uzuini belu je tacx am vk khjla thg je chsiv.             |                         |
-| amsht    | sj. vk subt vt alpp f bzui f zuf z vzt.                      |                         |
-| amtai    | sj. suba kysi o qah ubva kadu f yra.                         |                         |
-| amter    | k. ju oraux aoliga.                                          |                         |
-| amti     | sj. alfsu ahk f yra. akudep ahk kyso f yra.                  |                         |
-| amx      | e. rali aoer ee guo hji.                                     |                         |
-| aoer     | sj. yra z guo f lavit lela ahk tky f cxla pdepr z lela.      |                         |
-| aohh     | bu. ju sxresh sxresh kap kaish.                              |                         |
-| aohj     | sj. axuaxf yele vh vzt in sjlup.                             |                         |
-| aohjg    | hh. 1 vs ju yra sxk erisula yra kadu. 2 dest in dast ju yra kyv o yra  kyv. |                         |
-| aohucx   | e. uxaux ging shlp.                                          |                         |
-| aohz     | bu. dust tair subtet ji o tae ehut subtat ji.                |                         |
-| aok      | k. 1 ging shlp. 2 vh cxhht vk ju yra vt yra kyv.             |                         |
-| aokai    | e. belu asj am hhk f akudep.                                 |                         |
-| aokasx   | sj. yra qrfde hucher in sxresh.<br />bu. qrfde deqhm deqhm.  | 例子<br />例如          |
-| aol      | e. hhk axhk.                                                 |                         |
-| aoley    | e. subt dvt lpubel subtat ahk vztu f oley.                   |                         |
-| aoliga   | k. suba hkdg am subb dkdg. rak.                              |                         |
-| aosiple  | a. vh uxaux vzt.                                             |                         |
-| aoxh     | bu. xzt tair subtet pji o elau subtat ji.                    |                         |
-| aozh     | bu. tae ehut subtet ji dust tair subtat ji.                  |                         |
-| aozra    | sj. belu je jajije f lava lela.                              |                         |
-| apda     | sj. vh lap f deda in sxresh.                                 |                         |
-| apu      | q. pu lela.                                                  |                         |
-| artai    | sj. amtai ahk akagata rink.                                  |                         |
-| ash      | sj. l asj z gtin.                                            |                         |
-| asj      | k. 1 vk ja je f akudep kyv. 2 ahk yamte ew el lela chley. 3 yra belu rak. |                         |
-| asre     | k. ubva kytu o lisuvai kytu.                                 |                         |
-| asx      | k. 1 asj am axuaxf ji. 2 dust ja ee je kap utei o vh akudep z je ja alih  kat ja je asj. |                         |
-| atai     | sj. ju ja ja asj el je lqa. je ju ja hji.                    |                         |
-| atek     | k. 1 sxuk taar kyin. 2 taar subb kyin.                       |                         |
-| auin     | e. kap kauin. kauin cji ji el hhg je ishl.                   |                         |
-| axdacj   | sj. uxaux aohjg l aiqr shlup f sxgu.                         |                         |
-| axgg     | sj. plu subteta guo beba f hucher.                           |                         |
-| axhk     | k. 1 vk ju yra ee yra ysi hucher kytu. 2 ysi hucher yre hucher kyin. |                         |
-| axht     | k. vk exiex sjlup yra axhk.                                  |                         |
-| axi      | a. hhk sxi axuax.                                            |                         |
-| axlk     | k. exiex ykai subb yre sui lav deda kyin.                    |                         |
-| axt      | sj. vh etela f kusxkusx sjlup z yre lela.                    |                         |
-| axuax    | hh. kap uxaux. zuf bteb.                                     |                         |
-| axuaxf   | e. hgasi z l axuax dkdg.                                     |                         |
-| axx      | k. sxuk hsj.                                                 |                         |
-| azui     | sj. yk vk yre lela in vk uku lela yra kysi.                  |                         |
+| WORDS    | DESCRIPTION                                                  | DESCRIPTION_TRANSLATION              |
+| -------- | ------------------------------------------------------------ | ------------------------------------ |
+| aa       | bu. vh subteta vzt subtet kysi o vh subtate vzt subtat kysi deqhm. cxla  ysi gega in sxgu z gega shlp. in vs ju buhhtes uxi beba. |                                      |
+| aaosi    | e. taar in kauin hgasi dkdg deqhm.                           |                                      |
+| aappaa   | sj. yra lela. yra ja asj. kat yra o gta z ja ahk je hji.     |                                      |
+| aayin    | e. aosiple taar je ji el je ishl am hji inasi.               |                                      |
+| achai    | e. ahk kap gudde.                                            |                                      |
+| achei    | sj. yra lqa o htu ykai z je yra ji oteb.                     |                                      |
+| afhjshf  | e. aappaa je axx. am olla. yra je kap axx. aokai je sxk ji.  |                                      |
+| afsu     | k. vh cjja ee vh cjje aisir rik.                             |                                      |
+| aga      | sj. afsu f hucher.                                           |                                      |
+| agappx   | sj. ewer z kytu. a kuuee.                                    |                                      |
+| ahg      | k. vk gudde aa shg dkdg.                                     |                                      |
+| ahj      | sj. taar gudih kyin el shley. uku hucher hmt beba el shley.  |                                      |
+| ahk      | k. ging dkdg vk kytu.                                        |                                      |
+| ahsh     | sj. ahg kytu f sxresh.                                       |                                      |
+| aibesj   | sj. lef jajije lpubel ash. gegagu z l uxi aie hji.           |                                      |
+| aidu     | k. qah suba kadu am subb kap kadu.                           |                                      |
+| aie      | sj. dust ja je asj ee je ja asj o dust je giduh z ja yk dkdg ee ja giduh  z je yk dkdg aa uxi kytu f kyv. |                                      |
+| aige     | e. yra ahg.                                                  |                                      |
+| aiger    | i. ahg je atek kat yre ginger je ji.                         |                                      |
+| aiguux   | sj. vh oraux qatub z gega bteb f eeluz.                      |                                      |
+| aiin     | k. vk gudde aa thg dkdg f ging rak in dkdg.                  |                                      |
+| aik      | k. ju yra suba kadu o yra subb kadu.                         |                                      |
+| aiok     | k. vh uxaux yele vzt yra suba aiqr. yra aik.                 |                                      |
+| aiqr     | k. vh yre sjlup o vh uxauxf vzt beba.                        |                                      |
+| air      | sj. liliax z ja.                                             |                                      |
+| airli    | k. suba kytu aa subb kytu aa ehg kytu.                       |                                      |
+| airlx    | k. suba kytu am subb hytu.                                   |                                      |
+| aish     | sj. qah z ju lela lela kadu.                                 |                                      |
+| aisir    | a. asre deqhm.                                               |                                      |
+| aitek    | e. hhk husj. oly hhk husj. thg atek. oly thg atek. aohz je je tji. aohz  ahk je ulio. |                                      |
+| aitgutea | sj. ahk yra gudde brye aozh alax ji. vk gudde irli atek aozh alex ji. |                                      |
+| aiugf    | i. oley el je tlah f lela belu je kyso. taar yra ji. am deaw je xgf. auin  jel ji. |                                      |
+| aizsuda  | sj. kyin aa toy f zuf z ging.                                |                                      |
+| aizt     | sj. tair vzt.                                                |                                      |
+| aje      | cj. subtatef je.                                             |                                      |
+| aka      | sj. akerux ee akcxa.                                         |                                      |
+| akabk    | sj. yre aka l ppsux ji. yre aka el l btebe kap bek ji. aka yk ahk vs aka  btebe f zkehu ji. |                                      |
+| akachf   | i. gudda yra ktap hji. lpupl exiex xgin yra dkdg. plahe yre gudda ktap  shg. lpupl btebr shg yra dabu. oyr xgin kevin kzin. |                                      |
+| akagata  | sj. amti ahk kyv f deda.                                     |                                      |
+| akcxa    | sj. laf yra cxs kat tael yra ji el yra lqa.                  |                                      |
+| akerux   | sj. laf xeli cxs.                                            |                                      |
+| akudep   | sj. qvq z guo. k. plu guo rah in dyt.                        |                                      |
+| akydep   | k. plu liuzu z guo akudep.                                   |                                      |
+| akyt     | k. siuaa subtet ee subtat hji.                               |                                      |
+| alaw     | sj. alp kakakaw.                                             |                                      |
+| alax     | e. sxuk uxauxf ging aiin.                                    |                                      |
+| alb      | e. uku alp. vh dku hutl vs def kakauka yra ji.               |                                      |
+| alex     | e. sxzu ging aiin.                                           |                                      |
+| alfsu    | sj. pdepr aga ji ishl.                                       |                                      |
+| algin    | sj. yre alpp. kap lavit am utal. uxaux siuai ykai ehu dkdg.  |                                      |
+| alih     | k. pdepr hucher kyin.                                        |                                      |
+| alip     | e. vs je alp ji.                                             |                                      |
+| alp      | e. hucher alpu. suba heba in bteb am subb beba in bteb. kakauka vs du ju  yra ji. |                                      |
+| alpi     | a. kyin f hgasi alpp.                                        |                                      |
+| alpp     | sj. 1 vh sxzu subteta f vzt. 2 dust sxzu subteta vzt ji o kadu f sjlup. 3  dust suba kap kyv am subb kyv o kadu f hgasi. 4 vh wax f liuzu. |                                      |
+| alpu     | k. alp yra kyin.                                             |                                      |
+| aluzui   | sj. tata z je xhjra.                                         |                                      |
+| am       | bu. vs subtet fsa ji f subtat deqhm. alp sxresh deqhm.       |                                      |
+| amaze    | sj. plato aiqr f sjlup.                                      |                                      |
+| ami      | e. axuax amsht je ji el je in laf ishl.                      |                                      |
+| amka     | k. uzuini belu je tacx am vk khjla thg je chsiv.             |                                      |
+| amsht    | sj. vk subt vt alpp f bzui f zuf z vzt.                      |                                      |
+| amtai    | sj. suba kysi o qah ubva kadu f yra.                         |                                      |
+| amter    | k. ju oraux aoliga.                                          |                                      |
+| amti     | sj. alfsu ahk f yra. akudep ahk kyso f yra.                  |                                      |
+| amx      | e. rali aoer ee guo hji.                                     |                                      |
+| aoer     | sj. yra z guo f lavit lela ahk tky f cxla pdepr z lela.      |                                      |
+| aohh     | bu. ju sxresh sxresh kap kaish.                              |                                      |
+| aohj     | sj. axuaxf yele vh vzt in sjlup.                             |                                      |
+| aohjg    | hh. 1 vs ju yra sxk erisula yra kadu. 2 dest in dast ju yra kyv o yra  kyv. |                                      |
+| aohucx   | e. uxaux ging shlp.                                          |                                      |
+| aohz     | bu. dust tair subtet ji o tae ehut subtat ji.                |                                      |
+| aok      | k. 1 ging shlp. 2 vh cxhht vk ju yra vt yra kyv.             |                                      |
+| aokai    | e. belu asj am hhk f akudep.                                 |                                      |
+| aokasx   | sj. yra qrfde hucher in sxresh.<br />bu. qrfde deqhm deqhm.  | 例子(example)<br />例如(for example) |
+| aol      | e. hhk axhk.                                                 |                                      |
+| aoley    | e. subt dvt lpubel subtat ahk vztu f oley.                   |                                      |
+| aoliga   | k. suba hkdg am subb dkdg. rak.                              |                                      |
+| aosiple  | a. vh uxaux vzt.                                             |                                      |
+| aoxh     | bu. xzt tair subtet pji o elau subtat ji.                    |                                      |
+| aozh     | bu. tae ehut subtet ji dust tair subtat ji.                  |                                      |
+| aozra    | sj. belu je jajije f lava lela.                              |                                      |
+| apda     | sj. vh lap f deda in sxresh.                                 |                                      |
+| apu      | q. pu lela.                                                  |                                      |
+| artai    | sj. amtai ahk akagata rink.                                  |                                      |
+| ash      | sj. l asj z gtin.                                            |                                      |
+| asj      | k. 1 vk ja je f akudep kyv. 2 ahk yamte ew el lela chley. 3 yra belu rak. |                                      |
+| asre     | k. ubva kytu o lisuvai kytu.                                 |                                      |
+| asx      | k. 1 asj am axuaxf ji. 2 dust ja ee je kap utei o vh akudep z je ja alih  kat ja je asj. |                                      |
+| atai     | sj. ju ja ja asj el je lqa. je ju ja hji.                    |                                      |
+| atek     | k. 1 sxuk taar kyin. 2 taar subb kyin.                       |                                      |
+| auin     | e. kap kauin. kauin cji ji el hhg je ishl.                   |                                      |
+| axdacj   | sj. uxaux aohjg l aiqr shlup f sxgu.                         |                                      |
+| axgg     | sj. plu subteta guo beba f hucher.                           |                                      |
+| axhk     | k. 1 vk ju yra ee yra ysi hucher kytu. 2 ysi hucher yre hucher kyin. |                                      |
+| axht     | k. vk exiex sjlup yra axhk.                                  |                                      |
+| axi      | a. hhk sxi axuax.                                            |                                      |
+| axlk     | k. exiex ykai subb yre sui lav deda kyin.                    |                                      |
+| axt      | sj. vh etela f kusxkusx sjlup z yre lela.                    |                                      |
+| axuax    | hh. kap uxaux. zuf bteb.                                     |                                      |
+| axuaxf   | e. hgasi z l axuax dkdg.                                     |                                      |
+| axx      | k. sxuk hsj.                                                 |                                      |
+| azui     | sj. yk vk yre lela in vk uku lela yra kysi.                  |                                      |
 
 ## B
 
@@ -415,7 +433,7 @@ aokasx e eguux kuuee，e为eguux缩写，eguux为名词词性e，kueee为动词�
 | blih    | e. vk kytu oing hkdg.                                        |                         |
 | blit    | k. hjter pdepr rak o iligt btebr rak.                        |                         |
 | blug    | sj. yra tla f zuf z lela.                                    |                         |
-| botvi   | sj. yre vs dudi aohjg l aiqr. sasih tlah.                    |                         |
+| botvi   | sj. yre vs dudi aohjg l aiqr. sasih tlah.                    | BROUGHTY                |
 | bpu     | q. pu kyv.                                                   |                         |
 | braee   | sj. qlat el teer subt ji ji. vk subtat yk ahg atek. subt hhg ejlip. |                         |
 | brue    | k. sxzu brye.                                                |                         |
@@ -1101,72 +1119,72 @@ aokasx e eguux kuuee，e为eguux缩写，eguux为名词词性e，kueee为动词�
 
 ## P
 
-| WORDS          | DESCRIPTION                                                  | DESCRIPTION_TRANSLATION |
-| -------------- | ------------------------------------------------------------ | ----------------------- |
-| pakai          | p. guda lisuvai bakai pji pu.                                |                         |
-| palb           | p. alb ktap kytu lpu. eut yra pji pu.                        |                         |
-| palw           | p. dest yre lela ji f ja je tku o uku ja je tku pu. ykai z ja guerg ji  pu. dest guo ja rcxs o ja kytu pu. yre lela thg ja ji pu. |                         |
-| pbaer          | p. gta belu gpu.                                             |                         |
-| pbusi          | p. yra subb je chsiv. xej yra ji. subb je chsiv bpu.         |                         |
-| pdacjch        | p. dest ja je rik o ehg kysi bpu.                            |                         |
-| pde            | sj. hba vztu f heha z yra z guo z lela in xyte lela.         |                         |
-| pdep           | k. vzte yra kysi. sj. vzte yra kysi.                         |                         |
-| pdepr          | sj. pdep f lela in deda in heha.                             |                         |
-| pehut          | sj. lav in ehut in gude yra ji deqhm. ehg in kap ehg f gato. |                         |
-| pgappx         | sj. yre pul. p kuuee.                                        |                         |
-| phjqle         | e. qah yheam kzin.                                           |                         |
-| picj           | p. ppicj el je helu gpu.                                     |                         |
-| pingu          | p. lagat ppicj gpu o lagat kagin gpu.                        |                         |
-| pip            | a. vk ja je ee vk je ja.                                     |                         |
-| piras          | sj. vh du kaw sxi exiex idcx z uzuini je rak. lpubul idcx z je yra rak. |                         |
-| pji            | k. ji in hji.                                                |                         |
-| pkaer          | p. gta ahg dkdg gpu.                                         |                         |
-| pkager         | p. yre lela keka lpu.                                        |                         |
-| pla            | k. plah kazu.                                                |                         |
-| plaf           | k. qvq kytu.                                                 |                         |
-| plah           | sj. zuf z hgaxi.                                             |                         |
-| plahe          | e. tae gudi plah ji.                                         |                         |
-| plato          | sj. yl yamte ktap z je kedu f lela.                          |                         |
-| plebz          | p. gebr dkdg ler zpu.                                        |                         |
-| pleh           | e. uxaux plah dkdg.                                          |                         |
-| plia           | p. sxresh kysi lpu. ju lela ee lela ulia lpu.                |                         |
-| plu            | r. 1 ewer beax. 2 qrexzt deqhm. deqhm deqhm.                 |                         |
-| pp             | sj. dust je je olla ji o ehg je bteb f gega. gaeif z zucjch yra ji. |                         |
-| ppby           | e. ahg je luux kata. kat vk yl yamte ktap kytu el hba iligt hkdg. |                         |
-| ppcxli         | sj. cji je kap cxli.                                         |                         |
-| ppdhu          | sj. subteta oer dust slip o ja je asx. dust ja slip o je ja asx pu. |                         |
-| pphut          | sj. lav yra ji f hgasi deqhm.                                |                         |
-| ppicj          | k. ahk toy in duta f yra kyin.                               |                         |
-| ppjefam        | e. axuax iligt dkdg.                                         |                         |
-| ppkel          | e. hhcx z buzpu je kap lqa. am thg je tky kat ligaa vzt ji.  |                         |
-| pplali         | sj. ehut uzuini ee je pji je kap lqa.                        |                         |
-| ppscj          | k. ysi ppicj.                                                |                         |
-| ppsux          | k. l kytu kap bek o gegagu kap kyv o l btebe kap bek.        |                         |
-| ppt            | k. suba dabu am vk uku lela subb pdep. lpubal ahk du lela ktap. | 发行                    |
-| pptu           | e. dkdg am hhk kytu.                                         |                         |
-| pqaor          | p. gazter z qahh oraux ji pu.                                |                         |
-| pqhichkag      | p. qahh ppicj lpu o kaqzuli lpu.                             |                         |
-| prat           | k. suba ju yra kxat am subb yra kxat.                        |                         |
-| pray           | k. qlat yra ji ishl.                                         |                         |
-| ptabe          | p. sxi tabe ginger kytu el ahk ktap kytu gpu.                |                         |
-| ptap           | sj. ging ahk lela rak f deda.                                |                         |
-| pu<br />再一次 | q. kap shpuli pul kyv f gega.                                |                         |
-| puaxer         | sj. liuzu dkdg o hhk rink f sjlup.                           |                         |
-| puel           | sj. kat aohucx axt kadu o yra laf sxi inlt asj.              |                         |
-| pugin          | sj. pptu f ging.                                             |                         |
-| pukudep        | p. kakauka l bki ee l dyt ji pu. sxde qahh hji pu. kap vzte l kusxkusx ji  pu. |                         |
-| pul            | sj. 1 kap shpuli f qvq kyv f eeluz. 2 ubva pdep f kap shpuli f qvq. |                         |
-| pulihj         | sj. kat yra o qlat vk brye ji.                               |                         |
-| pulisu         | p. ja kadu spu. ja je rik lpu. puaxer subt lisuvai ji.       |                         |
-| pulupu         | sj. xyte yre am liuin ji.                                    |                         |
-| putel          | e. pul ee qlate kzin.                                        |                         |
-| pvbe           | p. je ubva je kyin lpu.                                      |                         |
-| pvhaf          | sj. halq in ppjefam f yra hgasi.                             |                         |
-| pvja           | p. ja kadu spu. dast plato je tku o ulio pu.                 |                         |
-| pvlib          | p. ju yra je belu am yra helu gpu.                           |                         |
-| pvtat          | e. sxi taar subtat eji el je lqa. yra je brye lpubl brxe.    |                         |
-| pxaji          | p. vh ash je lisuvai kax gpu.                                |                         |
-| pxubi          | p. bipu ee xux je dew akudep gpu.                            |                         |
+| WORDS     | DESCRIPTION                                                  | DESCRIPTION_TRANSLATION |
+| --------- | ------------------------------------------------------------ | ----------------------- |
+| pakai     | p. guda lisuvai bakai pji pu.                                |                         |
+| palb      | p. alb ktap kytu lpu. eut yra pji pu.                        |                         |
+| palw      | p. dest yre lela ji f ja je tku o uku ja je tku pu. ykai z ja guerg ji  pu. dest guo ja rcxs o ja kytu pu. yre lela thg ja ji pu. |                         |
+| pbaer     | p. gta belu gpu.                                             |                         |
+| pbusi     | p. yra subb je chsiv. xej yra ji. subb je chsiv bpu.         |                         |
+| pdacjch   | p. dest ja je rik o ehg kysi bpu.                            |                         |
+| pde       | sj. hba vztu f heha z yra z guo z lela in xyte lela.         |                         |
+| pdep      | k. vzte yra kysi. sj. vzte yra kysi.                         |                         |
+| pdepr     | sj. pdep f lela in deda in heha.                             |                         |
+| pehut     | sj. lav in ehut in gude yra ji deqhm. ehg in kap ehg f gato. |                         |
+| pgappx    | sj. yre pul. p kuuee.                                        |                         |
+| phjqle    | e. qah yheam kzin.                                           |                         |
+| picj      | p. ppicj el je helu gpu.                                     |                         |
+| pingu     | p. lagat ppicj gpu o lagat kagin gpu.                        |                         |
+| pip       | a. vk ja je ee vk je ja.                                     |                         |
+| piras     | sj. vh du kaw sxi exiex idcx z uzuini je rak. lpubul idcx z je yra rak. |                         |
+| pji       | k. ji in hji.                                                |                         |
+| pkaer     | p. gta ahg dkdg gpu.                                         |                         |
+| pkager    | p. yre lela keka lpu.                                        |                         |
+| pla       | k. plah kazu.                                                |                         |
+| plaf      | k. qvq kytu.                                                 |                         |
+| plah      | sj. zuf z hgaxi.                                             |                         |
+| plahe     | e. tae gudi plah ji.                                         |                         |
+| plato     | sj. yl yamte ktap z je kedu f lela.                          |                         |
+| plebz     | p. gebr dkdg ler zpu.                                        |                         |
+| pleh      | e. uxaux plah dkdg.                                          |                         |
+| plia      | p. sxresh kysi lpu. ju lela ee lela ulia lpu.                |                         |
+| plu       | r. 1 ewer beax. 2 qrexzt deqhm. deqhm deqhm.                 |                         |
+| pp        | sj. dust je je olla ji o ehg je bteb f gega. gaeif z zucjch yra ji. |                         |
+| ppby      | e. ahg je luux kata. kat vk yl yamte ktap kytu el hba iligt hkdg. |                         |
+| ppcxli    | sj. cji je kap cxli.                                         |                         |
+| ppdhu     | sj. subteta oer dust slip o ja je asx. dust ja slip o je ja asx pu. |                         |
+| pphut     | sj. lav yra ji f hgasi deqhm.                                |                         |
+| ppicj     | k. ahk toy in duta f yra kyin.                               |                         |
+| ppjefam   | e. axuax iligt dkdg.                                         |                         |
+| ppkel     | e. hhcx z buzpu je kap lqa. am thg je tky kat ligaa vzt ji.  |                         |
+| pplali    | sj. ehut uzuini ee je pji je kap lqa.                        |                         |
+| ppscj     | k. ysi ppicj.                                                |                         |
+| ppsux     | k. l kytu kap bek o gegagu kap kyv o l btebe kap bek.        |                         |
+| ppt       | k. suba dabu am vk uku lela subb pdep. lpubal ahk du lela ktap. | 发行                    |
+| pptu      | e. dkdg am hhk kytu.                                         |                         |
+| pqaor     | p. gazter z qahh oraux ji pu.                                |                         |
+| pqhichkag | p. qahh ppicj lpu o kaqzuli lpu.                             |                         |
+| prat      | k. suba ju yra kxat am subb yra kxat.                        |                         |
+| pray      | k. qlat yra ji ishl.                                         |                         |
+| ptabe     | p. sxi tabe ginger kytu el ahk ktap kytu gpu.                |                         |
+| ptap      | sj. ging ahk lela rak f deda.                                |                         |
+| pu        | q. kap shpuli pul kyv f gega.                                | 再一次                  |
+| puaxer    | sj. liuzu dkdg o hhk rink f sjlup.                           |                         |
+| puel      | sj. kat aohucx axt kadu o yra laf sxi inlt asj.              |                         |
+| pugin     | sj. pptu f ging.                                             |                         |
+| pukudep   | p. kakauka l bki ee l dyt ji pu. sxde qahh hji pu. kap vzte l kusxkusx ji  pu. |                         |
+| pul       | sj. 1 kap shpuli f qvq kyv f eeluz. 2 ubva pdep f kap shpuli f qvq. |                         |
+| pulihj    | sj. kat yra o qlat vk brye ji.                               |                         |
+| pulisu    | p. ja kadu spu. ja je rik lpu. puaxer subt lisuvai ji.       |                         |
+| pulupu    | sj. xyte yre am liuin ji.                                    |                         |
+| putel     | e. pul ee qlate kzin.                                        |                         |
+| pvbe      | p. je ubva je kyin lpu.                                      |                         |
+| pvhaf     | sj. halq in ppjefam f yra hgasi.                             |                         |
+| pvja      | p. ja kadu spu. dast plato je tku o ulio pu.                 |                         |
+| pvlib     | p. ju yra je belu am yra helu gpu.                           |                         |
+| pvtat     | e. sxi taar subtat eji el je lqa. yra je brye lpubl brxe.    |                         |
+| pxaji     | p. vh ash je lisuvai kax gpu.                                |                         |
+| pxubi     | p. bipu ee xux je dew akudep gpu.                            |                         |
 
 ## Q
 
@@ -1576,4 +1594,3 @@ aokasx e eguux kuuee，e为eguux缩写，eguux为名词词性e，kueee为动词�
 | zuy       | sj. zine z tata z lela.                                      |      |
 | zuya      | a. plu tata. uku ging shlp.                                  |      |
 
-## 
